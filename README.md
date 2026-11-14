@@ -61,9 +61,9 @@ H3-геометрия вместо административных границ
 ## Стек
 
 **Бэкенд:** Python, FastAPI, SQLAlchemy 2 (async), PostgreSQL, Redis, Alembic, Celery, pytest
-**Фронтенд:** Next.js, React, TypeScript, Tailwind CSS, Flutter/Dart
+**Фронтенд:** Next.js, React, TypeScript, Tailwind CSS
 **Инфраструктура:** Docker, Docker Compose, nginx, CI/CD (GitHub Actions), Linux, Git
-**AI:** LLM-интеграции, STT/TTS (Yandex SpeechKit), LiveKit, ComfyUI, работа с AI-агентами
+**AI:** LLM-интеграции, STT/TTS (Yandex SpeechKit), работа с AI-агентами
 **Домен:** ПНР, системы безопасности (АПС, СОУЭ, АУПТ, СКС, СВН, СКУД), исполнительная документация
 
 ---
